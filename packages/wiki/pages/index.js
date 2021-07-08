@@ -1,4 +1,4 @@
-import { Button } from '@deploytest/editor'
+import { Button } from 'editor'
 
 export default function Home() {
   return (
