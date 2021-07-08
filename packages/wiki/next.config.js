@@ -1,2 +1,2 @@
-const withTM = require("next-transpile-modules")(["editor"]);
+const withTM = require('next-transpile-modules')(['editor']);
 module.exports = withTM();
